@@ -1,0 +1,186 @@
+{
+"diurno": [
+{
+"nombre": "Playa del Callao",
+"descripcion": "Una de las playas más populares de Mataró, ideal para relajarse y disfrutar del sol y el mar Mediterráneo.",
+"coordenadas": {
+"lat": 41.536783,
+"lng": 2.451106
+},
+"imagen": "playa_callao.jpg"
+},
+{
+"nombre": "Parque del Castillo",
+"descripcion": "Un parque tranquilo con vistas panorámicas de la ciudad y áreas verdes perfectas para un picnic o un paseo relajante.",
+"coordenadas": {
+"lat": 41.542361,
+"lng": 2.442522
+},
+"imagen": "parque_castillo.jpg"
+},
+{
+"nombre": "Museo de Mataró",
+"descripcion": "Un museo que exhibe la historia y la cultura de Mataró, con una colección variada de artefactos y exposiciones.",
+"coordenadas": {
+"lat": 41.539563,
+"lng": 2.444472
+},
+"imagen": "museo_mataro.jpg"
+},
+{
+"nombre": "Basílica de Santa María",
+"descripcion": "Una impresionante basílica gótica situada en el corazón de Mataró, con una arquitectura fascinante y una rica historia.",
+"coordenadas": {
+"lat": 41.538573,
+"lng": 2.442942
+},
+"imagen": "basilica_santa_maria.jpg"
+},
+{
+"nombre": "Calle Mayor",
+"descripcion": "Una encantadora calle peatonal llena de tiendas, cafeterías y restaurantes, perfecta para pasear y disfrutar del ambiente local.",
+"coordenadas": {
+"lat": 41.539958,
+"lng": 2.443560
+},
+"imagen": "calle_mayor.jpg"
+},
+{
+"nombre": "Plaza Santa Anna",
+"descripcion": "Una hermosa plaza con una fuente central y rodeada de cafeterías al aire libre, ideal para relajarse y disfrutar de un café.",
+"coordenadas": {
+"lat": 41.540879,
+"lng": 2.442173
+},
+"imagen": "plaza_santa_anna.jpg"
+},
+{
+"nombre": "Puerto Deportivo",
+"descripcion": "Un puerto animado con yates y embarcaciones, rodeado de restaurantes y bares con vistas al mar.",
+"coordenadas": {
+"lat": 41.538131,
+"lng": 2.441318
+},
+"imagen": "puerto_deportivo.jpg"
+},
+{
+"nombre": "Mercado Central",
+"descripcion": "Un mercado tradicional donde se pueden encontrar productos frescos locales, desde frutas y verduras hasta pescado y carnes.",
+"coordenadas": {
+"lat": 41.539434,
+"lng": 2.443424
+},
+"imagen": "mercado_central.jpg"
+},
+{
+"nombre": "Parque Central",
+"descripcion": "Un gran parque urbano con zonas verdes, juegos para niños y senderos para caminar o hacer ejercicio al aire libre.",
+"coordenadas": {
+"lat": 41.536666,
+"lng": 2.442832
+},
+"imagen": "parque_central.jpg"
+},
+{
+"nombre": "Iglesia de Sant Joan",
+"descripcion": "Una iglesia histórica con una impresionante arquitectura y detalles decorativos, ubicada en el centro de la ciudad.",
+"coordenadas": {
+"lat": 41.538034,
+"lng": 2.446088
+},
+"imagen": "iglesia_sant_joan.jpg"
+}
+],
+"nocturno": [
+{
+"nombre": "Sala Mataró",
+"descripcion": "Una discoteca popular con música en vivo y DJs, perfecta para bailar y disfrutar de la noche.",
+"coordenadas": {
+"lat": 41.537320,
+"lng": 2.444651
+},
+"imagen": "sala_mataro.jpg"
+},
+{
+"nombre": "Bar El Puntet",
+"descripcion": "Un bar acogedor con una amplia selección de cócteles y aperitivos, ideal para socializar y relajarse.",
+"coordenadas": {
+"lat": 41.538957,
+"lng": 2.442019
+},
+"imagen": "bar_el_puntet.jpg"
+},
+{
+"nombre": "Club La Nit",
+"descripcion": "Un club nocturno vibrante con música variada y un ambiente animado, perfecto para divertirse toda la noche.",
+"coordenadas": {
+"lat": 41.540014,
+"lng": 2.442630
+},
+"imagen": "club_la_nit.jpg"
+},
+{
+"nombre": "Bar La Terrassa",
+"descripcion": "Un bar con terraza al aire libre que ofrece vistas panorámicas de la ciudad y una amplia selección de bebidas.",
+"coordenadas": {
+"lat": 41.540408,
+"lng": 2.444064
+},
+"imagen": "bar_la_terrassa.jpg"
+},
+{
+"nombre": "Cervecería La Fábrica",
+"descripcion": "Una cervecería artesanal con una variedad de cervezas locales e internacionales, acompañadas de tapas y aperitivos.",
+"coordenadas": {
+"lat": 41.538684,
+"lng": 2.441668
+},
+"imagen": "cerveceria_la_fabrica.jpg"
+},
+{
+"nombre": "Café del Mar",
+"descripcion": "Un café junto al mar con música ambiental y cócteles refrescantes, perfecto para relajarse y disfrutar del paisaje nocturno.",
+"coordenadas": {
+"lat": 41.537607,
+"lng": 2.448562
+},
+"imagen": "cafe_del_mar.jpg"
+},
+{
+"nombre": "Sala Apolo",
+"descripcion": "Una sala de conciertos y discoteca con una programación variada de eventos y actuaciones en vivo.",
+"coordenadas": {
+"lat": 41.541169,
+"lng": 2.443533
+},
+"imagen": "sala_apolo.jpg"
+},
+{
+"nombre": "Barcelona Beer Company",
+"descripcion": "Un pub con una amplia selección de cervezas artesanales y un ambiente acogedor, ideal para los amantes de la cerveza.",
+"coordenadas": {
+"lat": 41.538224,
+"lng": 2.442312
+},
+"imagen": "barcelona_beer_company.jpg"
+},
+{
+"nombre": "Bar El Racó",
+"descripcion": "Un bar tradicional con una decoración vintage y una atmósfera relajada, perfecto para disfrutar de unas copas con amigos.",
+"coordenadas": {
+"lat": 41.537870,
+"lng": 2.444098
+},
+"imagen": "bar_el_raco.jpg"
+},
+{
+"nombre": "Café del Sol",
+"descripcion": "Un café con terraza que ofrece vistas espectaculares del atardecer sobre el mar, acompañado de una selección de bebidas.",
+"coordenadas": {
+"lat": 41.537920,
+"lng": 2.443256
+},
+"imagen": "cafe_del_sol.jpg"
+}
+]
+}
